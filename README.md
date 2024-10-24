@@ -8,6 +8,10 @@ The datasets used in the Project are present in the Datasets folder. Here, 2 dat
 1. NYPD_Complaint_Data
 2. NYPD_Shooting_Data
 
+The datasets used in this project can be downloaded from the below Google Drive Link :
+
+[https://drive.google.com/drive/folders/16UVe5FVQyYJqwLm2qqlxK40hVNhKdAy9](https://drive.google.com/drive/folders/1PCrcCdeGH8OidlawZt3dec2Ym2vf9FFT?usp=drive_link)
+
 # Setup
 To run our code locally, you need to setup a few things. These are : 
 
