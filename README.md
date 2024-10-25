@@ -1,5 +1,7 @@
 # CrimeDataAnalysis
-Analyze a public dataset to discern crime trends of New York City over a 15-year period.
+Analyze a public dataset to discern crime trends of New York City over a 15-year period. The results are presented in the form of a UI created using React and can be accessed using the link below : 
+
+https://avenger2597.github.io/CrimeDataAnalysis/
 
 # Dataset
 
